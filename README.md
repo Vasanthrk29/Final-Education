@@ -39,7 +39,7 @@ We experimented with multiple classifiers, and **Random Forest** performed the b
 ## 📌 How to Run the Project
 1. **Clone the repository**
    ```bash
-   https://github.com/Vasanthrk29/Final-Education.git
+   git clone https://github.com/Vasanthrk29/Final-Education.git
    cd final_education
    ```
 2. **Install dependencies**
